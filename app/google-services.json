@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079185436406",
+    "project_id": "cobamdev",
+    "storage_bucket": "cobamdev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079185436406:android:a944eb8e72c0b5907906d7",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrDzrBLdkLiZH6QuIWYy5n_hkJrBvAic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
