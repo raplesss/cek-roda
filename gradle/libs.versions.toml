@@ -21,8 +21,7 @@ koin = "3.5.0"
 koin_compose = "4.0.0"
 
 [libraries]
-firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics",
-version.ref = "firebaseCrashlytics" }
+firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics", version.ref = "firebaseCrashlytics" }
 
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
